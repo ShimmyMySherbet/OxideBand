@@ -15,3 +15,7 @@ The Copy Link button will download the midi into your instruments if it has not 
 
 # Downloads
 Downloads available via <a href="https://github.com/ShimmyMySherbet/OxideBand/releases">Releases</a>
+
+Icon is temporary, I will get around to making a custom icon eventually.
+
+Midis are sourced from <a href="https://bitmidi.com/">BitMidi</a>
